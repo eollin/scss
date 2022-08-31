@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  padding: rem-calc(60) rem-calc(160);
+  font-family: Helvetica, Arial, sans-serif;
+  background: rgb(142, 197, 252);
+  background: linear-gradient(90deg, rgb(142, 197, 252) 0%, rgb(224, 195, 252) 100%);
+}/*# sourceMappingURL=style.css.map */
